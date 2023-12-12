@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "81usNt2fp/WG7M47BUKmqjovOVi4hw3u7BvjYc2Ozih8k0twGZxXs4n01VfulveFPk0FczzpcK0uMybCIGeZwg==",
+  "dgSpecHash": "rvrdACP8R0zjMBlUGrRr1QrXk85paf3I5IrhSe1OXF1if0IC4/Ivjt6yebaPMQfoIRgpH4T3JwXWFeB0/WMiaw==",
   "success": true,
-  "projectFilePath": "D:\\Estudos\\Informatica\\z Projetos\\C#\\NumeroExtenso\\NumeroExtenso\\NumeroExtenso.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Meus\\repository\\github\\NumeroExtenso\\NumeroExtenso\\NumeroExtenso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Lazari\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
